@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p><a href="https://solved.ac/ibd1229">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ibd1229" alt="Solved.ac프로필">
+</a></p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=INSEA-99&show_icons=true&theme=radical)
